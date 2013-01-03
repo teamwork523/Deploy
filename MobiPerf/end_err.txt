@@ -1,0 +1,164 @@
+kill 18775: No such process
+kill 18780: No such process
+kill 18785: No such process
+kill 18790: No such process
+kill 23346: No such process
+kill 23361: No such process
+kill 23380: No such process
+ssh: connect to host 64.9.225.212 port 806: Connection refused
+kill 32566: No such process
+kill 32571: No such process
+kill 32576: No such process
+kill 32581: No such process
+kill 25768: No such process
+kill 25773: No such process
+kill 25778: No such process
+kill 25783: No such process
+kill 25525: No such process
+kill 25530: No such process
+kill 25535: No such process
+kill 25540: No such process
+kill 32755: No such process
+kill 32760: No such process
+kill 32765: No such process
+kill 302: No such process
+kill 10215: No such process
+kill 10220: No such process
+kill 10225: No such process
+kill 10230: No such process
+kill 12959: No such process
+kill 12965: No such process
+kill 12969: No such process
+kill 12974: No such process
+kill 17390: No such process
+kill 17395: No such process
+kill 17400: No such process
+kill 17405: No such process
+kill 15105: No such process
+kill 15110: No such process
+kill 15115: No such process
+kill 15121: No such process
+kill 11381: No such process
+kill 11387: No such process
+kill 11392: No such process
+kill 11397: No such process
+kill 3508: No such process
+kill 3513: No such process
+kill 3518: No such process
+kill 3523: No such process
+kill 5738: No such process
+kill 5743: No such process
+kill 5748: No such process
+kill 5753: No such process
+kill 3831: No such process
+kill 3836: No such process
+kill 3841: No such process
+kill 3846: No such process
+kill 13618: No such process
+kill 13623: No such process
+kill 13628: No such process
+kill 13633: No such process
+kill 5545: No such process
+kill 5550: No such process
+kill 5555: No such process
+kill 5560: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 14813: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 14820: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 14825: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 14830: No such process
+kill 479: No such process
+kill 484: No such process
+kill 489: No such process
+kill 493: No such process
+kill 8401: No such process
+kill 8436: No such process
+kill 8474: No such process
+kill 8542: No such process
+kill 13020: No such process
+kill 13025: No such process
+kill 13030: No such process
+kill 13034: No such process
+kill 5870: No such process
+kill 5875: No such process
+kill 5880: No such process
+kill 5885: No such process
+kill 21245: No such process
+kill 21251: No such process
+kill 21256: No such process
+kill 21261: No such process
+kill 31729: No such process
+kill 31740: No such process
+kill 31745: No such process
+kill 31750: No such process

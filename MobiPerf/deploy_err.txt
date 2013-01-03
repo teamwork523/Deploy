@@ -1,0 +1,815 @@
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 23407: No such process
+kill 23412: No such process
+kill 23417: No such process
+kill 23422: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 31580: No such process
+kill 31585: No such process
+kill 31590: No such process
+kill 31595: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+ssh: connect to host 1.michigan.mlab1.nuq0t.measurement-lab.org port 806: Network is unreachable
+ssh: connect to host 64.9.225.212 port 806: Connection refused
+lost connection
+ssh: connect to host 64.9.225.212 port 806: Connection refused
+ssh: connect to host 64.9.225.212 port 806: Connection refused
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 18952: No such process
+kill 18957: No such process
+kill 18962: No such process
+kill 18967: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 19834: No such process
+kill 19839: No such process
+kill 19844: No such process
+kill 19849: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 16936: No such process
+kill 16941: No such process
+kill 16946: No such process
+kill 16951: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 25745: No such process
+kill 25750: No such process
+kill 25755: No such process
+kill 25760: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 6398: No such process
+kill 6403: No such process
+kill 6409: No such process
+kill 6414: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 7737: No such process
+kill 7741: No such process
+kill 7745: No such process
+kill 7750: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 11075: No such process
+kill 11080: No such process
+kill 11085: No such process
+kill 11090: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 9156: No such process
+kill 9161: No such process
+kill 9166: No such process
+kill 9171: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 6162: No such process
+kill 6168: No such process
+kill 6173: No such process
+kill 6177: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 31115: No such process
+kill 31120: No such process
+kill 31125: No such process
+kill 31130: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 28639: No such process
+kill 28644: No such process
+kill 28649: No such process
+kill 28654: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 31572: No such process
+kill 31577: No such process
+kill 31582: No such process
+kill 31587: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 24779: No such process
+kill 24784: No such process
+kill 24789: No such process
+kill 24794: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+scp: /home/michigan_1/mobiperf/Command.jar: Permission denied
+scp: /home/michigan_1/mobiperf/Downlink.jar: Permission denied
+scp: /home/michigan_1/mobiperf/end.sh: Permission denied
+scp: /home/michigan_1/mobiperf/KeepAlive.jar: Permission denied
+scp: /home/michigan_1/mobiperf/start.sh: Permission denied
+scp: /home/michigan_1/mobiperf/tcpdump_end.sh: Permission denied
+scp: /home/michigan_1/mobiperf/tcpdump_init.sh: Permission denied
+scp: /home/michigan_1/mobiperf/Uplink.jar: Permission denied
+kill 6320: No such process
+kill 6325: No such process
+kill 6330: No such process
+kill 6335: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 2601: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 2605: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 2609: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 2613: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 25913: No such process
+kill 25918: No such process
+kill 25923: No such process
+kill 25929: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 29185: No such process
+kill 29222: No such process
+kill 29265: No such process
+kill 29304: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 6238: No such process
+kill 6243: No such process
+kill 6248: No such process
+kill 6253: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 14166: No such process
+kill 14171: No such process
+kill 14176: No such process
+kill 14181: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 19792: No such process
+kill 19797: No such process
+kill 19802: No such process
+kill 19807: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 30493: No such process
+kill 30498: No such process
+kill 30503: No such process
+kill 30508: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 30413: No such process
+kill 30418: No such process
+kill 30423: No such process
+kill 30428: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 2546: No such process
+kill 2551: No such process
+kill 2556: No such process
+kill 2561: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 20481: No such process
+kill 20486: No such process
+kill 20491: No such process
+kill 20496: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 1268: No such process
+kill 1273: No such process
+kill 1278: No such process
+kill 1283: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 2065: No such process
+kill 2078: No such process
+kill 2083: No such process
+kill 2088: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 16452: No such process
+kill 16457: No such process
+kill 16462: No such process
+kill 16467: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 16715: No such process
+kill 16720: No such process
+kill 16725: No such process
+kill 16730: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 4198: No such process
+kill 4203: No such process
+kill 4208: No such process
+kill 4213: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 12693: No such process
+kill 12698: No such process
+kill 12703: No such process
+kill 12708: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 20959: No such process
+kill 20964: No such process
+kill 20971: No such process
+kill 20976: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 7995: No such process
+kill 8000: No such process
+kill 8005: No such process
+kill 8015: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 7811: No such process
+kill 7816: No such process
+kill 7821: No such process
+kill 7826: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 14526: No such process
+kill 14531: No such process
+kill 14536: No such process
+kill 14541: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 22638: No such process
+kill 22642: No such process
+kill 22647: No such process
+kill 22652: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 3635: No such process
+kill 3640: No such process
+kill 3645: No such process
+kill 3650: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 20099: No such process
+kill 20104: No such process
+kill 20114: No such process
+kill 20119: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 24095: No such process
+kill 24100: No such process
+kill 24105: No such process
+kill 24110: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 2505: No such process
+kill 2510: No such process
+kill 2515: No such process
+kill 2520: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 31170: No such process
+kill 31175: No such process
+kill 31180: No such process
+kill 31185: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 23228: No such process
+kill 23233: No such process
+kill 23238: No such process
+kill 23243: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 3426: No such process
+kill 3431: No such process
+kill 3436: No such process
+kill 3441: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 26154: No such process
+kill 26159: No such process
+kill 26164: No such process
+kill 26169: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 21814: No such process
+kill 21819: No such process
+kill 21824: No such process
+kill 21829: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 8989: No such process
+kill 8994: No such process
+kill 8999: No such process
+kill 9004: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 7890: No such process
+kill 7896: No such process
+kill 7901: No such process
+kill 7906: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 28491: No such process
+kill 28496: No such process
+kill 28501: No such process
+kill 28506: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 17291: No such process
+kill 17296: No such process
+kill 17301: No such process
+kill 17306: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 18284: No such process
+kill 18289: No such process
+kill 18294: No such process
+kill 18299: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 23692: No such process
+kill 23697: No such process
+kill 23702: No such process
+kill 23707: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 25254: No such process
+kill 25259: No such process
+kill 25264: No such process
+kill 25269: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 9204: No such process
+kill 9209: No such process
+kill 9214: No such process
+kill 9219: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 19208: No such process
+kill 19213: No such process
+kill 19218: No such process
+kill 19223: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 23734: No such process
+kill 23739: No such process
+kill 23744: No such process
+kill 23749: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 21702: No such process
+kill 21707: No such process
+kill 21712: No such process
+kill 21717: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 14605: No such process
+kill 14610: No such process
+kill 14615: No such process
+kill 14620: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 4660: No such process
+kill 4665: No such process
+kill 4670: No such process
+kill 4675: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 26534: No such process
+kill 26539: No such process
+kill 26544: No such process
+kill 26549: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 14327: No such process
+kill 14332: No such process
+kill 14337: No such process
+kill 14343: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 20556: No such process
+kill 20561: No such process
+kill 20566: No such process
+kill 20571: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 27615: No such process
+kill 27620: No such process
+kill 27625: No such process
+kill 27630: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+src/vsh.c:166: chdir(/home/michigan_1): Permission denied (13)
+src/vsh.c:166: chdir(/home/michigan_1): Permission denied (13)
+lost connection
+src/vsh.c:166: chdir(/home/michigan_1): Permission denied (13)
+src/vsh.c:166: chdir(/home/michigan_1): Permission denied (13)
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 21327: No such process
+kill 21332: No such process
+kill 21337: No such process
+kill 21342: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 5702: No such process
+kill 5707: No such process
+kill 5712: No such process
+kill 5717: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 5658: No such process
+kill 5663: No such process
+kill 5668: No such process
+kill 5673: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 31094: No such process
+kill 31099: No such process
+kill 31104: No such process
+kill 31110: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 21831: No such process
+kill 21836: No such process
+kill 21841: No such process
+kill 21846: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 790: No such process
+kill 795: No such process
+kill 800: No such process
+kill 805: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 624: No such process
+kill 629: No such process
+kill 634: No such process
+kill 639: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 26281: No such process
+kill 26286: No such process
+kill 26291: No such process
+kill 26296: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 583: No such process
+kill 588: No such process
+kill 594: No such process
+kill 599: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 28442: No such process
+kill 28447: No such process
+kill 28452: No such process
+kill 28457: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 29108: No such process
+kill 29113: No such process
+kill 29118: No such process
+kill 29123: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 32032: No such process
+kill 32037: No such process
+kill 32042: No such process
+kill 32047: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 1171: No such process
+kill 1176: No such process
+kill 1181: No such process
+kill 1186: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+'vserver ... suexec' is supported for running vservers only; aborting...
+'vserver ... suexec' is supported for running vservers only; aborting...
+lost connection
+'vserver ... suexec' is supported for running vservers only; aborting...
+'vserver ... suexec' is supported for running vservers only; aborting...
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 31299: No such process
+kill 31304: No such process
+kill 31309: No such process
+kill 31314: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 3262: No such process
+kill 3267: No such process
+kill 3272: No such process
+kill 3277: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 23280: No such process
+kill 23285: No such process
+kill 23290: No such process
+kill 23295: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 24139: No such process
+kill 24144: No such process
+kill 24149: No such process
+kill 24154: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 10626: No such process
+kill 10631: No such process
+kill 10636: No such process
+kill 10641: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 20144: No such process
+kill 20149: No such process
+kill 20154: No such process
+kill 20159: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 20437: No such process
+kill 20442: No such process
+kill 20447: No such process
+kill 20452: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 19748: No such process
+kill 19753: No such process
+kill 19758: No such process
+kill 19763: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 5967: No such process
+kill 5972: No such process
+kill 5977: No such process
+kill 5982: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 28834: No such process
+kill 28839: No such process
+kill 28844: No such process
+kill 28849: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 6989: No such process
+kill 6994: No such process
+kill 6999: No such process
+kill 7004: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 3145: No such process
+kill 3150: No such process
+kill 3155: No such process
+kill 3160: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 17735: No such process
+kill 17740: No such process
+kill 17745: No such process
+kill 17750: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 4775: No such process
+kill 4780: No such process
+kill 4785: No such process
+kill 4790: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 772: No such process
+kill 777: No such process
+kill 782: No such process
+kill 787: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 31489: No such process
+kill 31494: No such process
+kill 31499: No such process
+kill 31504: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 17517: No such process
+kill 17522: No such process
+kill 17527: No such process
+kill 17532: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 25833: No such process
+kill 25838: No such process
+kill 25843: No such process
+kill 25848: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 32032: No such process
+kill 32037: No such process
+kill 32042: No such process
+kill 32047: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 7848: No such process
+kill 7853: No such process
+kill 7858: No such process
+kill 7864: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 15451: No such process
+kill 15456: No such process
+kill 15461: No such process
+kill 15466: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 20876: No such process
+kill 20881: No such process
+kill 20886: No such process
+kill 20891: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+'vserver ... suexec' is supported for running vservers only; aborting...
+'vserver ... suexec' is supported for running vservers only; aborting...
+lost connection
+'vserver ... suexec' is supported for running vservers only; aborting...
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+'vserver ... suexec' is supported for running vservers only; aborting...
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 19127: No such process
+kill 19132: No such process
+kill 19137: No such process
+kill 19142: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 14846: No such process
+kill 14851: No such process
+kill 14856: No such process
+kill 14861: No such process
+./mlab.sh: line 46: [: =: unary operator expected
+./mlab.sh: line 48: [: =: unary operator expected
+mkdir: cannot create directory `/home/michigan_1/mobiperf': File exists
+kill 18224: No such process
+kill 18229: No such process
+kill 18234: No such process
+kill 18240: No such process
