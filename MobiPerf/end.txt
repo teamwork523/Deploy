@@ -186,3 +186,645 @@ stoping Uplink
 stoping KeepAlive
 stoping Command
 1.michigan.mlab3.ath02.measurement-lab.org  (83.212.5.167) done
+###############################
+25: 1.michigan.mlab3.syd02.measurement-lab.org (175.45.79.46)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.syd02.measurement-lab.org  (175.45.79.46) done
+###############################
+26: 1.michigan.mlab1.sea01.measurement-lab.org (38.102.0.75)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.sea01.measurement-lab.org  (38.102.0.75) done
+###############################
+27: 1.michigan.mlab1.syd01.measurement-lab.org (203.5.76.142)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.syd01.measurement-lab.org  (203.5.76.142) done
+###############################
+28: 1.michigan.mlab1.wlg01.measurement-lab.org (103.10.233.17)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.wlg01.measurement-lab.org  (103.10.233.17) done
+###############################
+29: 1.michigan.mlab2.wlg01.measurement-lab.org (103.10.233.30)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.wlg01.measurement-lab.org  (103.10.233.30) done
+###############################
+30: 1.michigan.mlab3.wlg01.measurement-lab.org (103.10.233.43)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.wlg01.measurement-lab.org  (103.10.233.43) done
+###############################
+31: 1.michigan.mlab1.iad01.measurement-lab.org (216.156.197.148)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.iad01.measurement-lab.org  (216.156.197.148) done
+###############################
+32: 1.michigan.mlab2.iad01.measurement-lab.org (216.156.197.161)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.iad01.measurement-lab.org  (216.156.197.161) done
+###############################
+33: 1.michigan.mlab3.iad01.measurement-lab.org (216.156.197.174)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.iad01.measurement-lab.org  (216.156.197.174) done
+###############################
+34: 1.michigan.mlab1.hnd01.measurement-lab.org (203.178.130.212)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.hnd01.measurement-lab.org  (203.178.130.212) done
+###############################
+35: 1.michigan.mlab2.hnd01.measurement-lab.org (203.178.130.225)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.hnd01.measurement-lab.org  (203.178.130.225) done
+###############################
+36: 1.michigan.mlab3.hnd01.measurement-lab.org (203.178.130.238)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.hnd01.measurement-lab.org  (203.178.130.238) done
+###############################
+37: 1.michigan.mlab3.nuq01.measurement-lab.org (64.9.225.175)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.nuq01.measurement-lab.org  (64.9.225.175) done
+###############################
+38: 1.michigan.mlab1.svg01.measurement-lab.org (81.167.39.20)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.svg01.measurement-lab.org  (81.167.39.20) done
+###############################
+39: 1.michigan.mlab2.svg01.measurement-lab.org (81.167.39.33)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.svg01.measurement-lab.org  (81.167.39.33) done
+###############################
+40: 1.michigan.mlab3.svg01.measurement-lab.org (81.167.39.46)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.svg01.measurement-lab.org  (81.167.39.46) done
+###############################
+41: 1.michigan.mlab1.tpe01.measurement-lab.org (163.22.28.20)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.tpe01.measurement-lab.org  (163.22.28.20) done
+###############################
+42: 1.michigan.mlab2.tpe01.measurement-lab.org (163.22.28.33)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.tpe01.measurement-lab.org  (163.22.28.33) done
+###############################
+43: 1.michigan.mlab3.tpe01.measurement-lab.org (163.22.28.46)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.tpe01.measurement-lab.org  (163.22.28.46) done
+###############################
+44: 1.michigan.mlab1.syd02.measurement-lab.org (175.45.79.20)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.syd02.measurement-lab.org  (175.45.79.20) done
+###############################
+45: 1.michigan.mlab2.syd02.measurement-lab.org (175.45.79.33)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.syd02.measurement-lab.org  (175.45.79.33) done
+###############################
+46: 1.michigan.mlab2.syd01.measurement-lab.org (203.5.76.158)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.syd01.measurement-lab.org  (203.5.76.158) done
+###############################
+47: 1.michigan.mlab3.syd01.measurement-lab.org (203.5.76.172)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.syd01.measurement-lab.org  (203.5.76.172) done
+###############################
+48: 1.michigan.mlab1.trn01.measurement-lab.org (194.116.85.212)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.trn01.measurement-lab.org  (194.116.85.212) done
+###############################
+49: 1.michigan.mlab2.trn01.measurement-lab.org (194.116.85.225)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.trn01.measurement-lab.org  (194.116.85.225) done
+###############################
+50: 1.michigan.mlab3.trn01.measurement-lab.org (194.116.85.238)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.trn01.measurement-lab.org  (194.116.85.238) done
+###############################
+51: 1.michigan.mlab1.mad01.measurement-lab.org (213.200.103.148)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.mad01.measurement-lab.org  (213.200.103.148) done
+###############################
+52: 1.michigan.mlab2.mad01.measurement-lab.org (213.200.103.161)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.mad01.measurement-lab.org  (213.200.103.161) done
+###############################
+53: 1.michigan.mlab3.mad01.measurement-lab.org (213.200.103.174)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.mad01.measurement-lab.org  (213.200.103.174) done
+###############################
+54: 1.michigan.mlab1.mil01.measurement-lab.org (213.200.99.212)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.mil01.measurement-lab.org  (213.200.99.212) done
+###############################
+55: 1.michigan.mlab2.mil01.measurement-lab.org (213.200.99.225)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.mil01.measurement-lab.org  (213.200.99.225) done
+###############################
+56: 1.michigan.mlab3.mil01.measurement-lab.org (213.200.99.238)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.mil01.measurement-lab.org  (213.200.99.238) done
+###############################
+57: 1.michigan.mlab1.arn01.measurement-lab.org (213.248.112.84)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.arn01.measurement-lab.org  (213.248.112.84) done
+###############################
+58: 1.michigan.mlab2.arn01.measurement-lab.org (213.248.112.97)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.arn01.measurement-lab.org  (213.248.112.97) done
+###############################
+59: 1.michigan.mlab3.arn01.measurement-lab.org (213.248.112.110)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.arn01.measurement-lab.org  (213.248.112.110) done
+###############################
+60: 1.michigan.mlab1.vie01.measurement-lab.org (213.208.152.20)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.vie01.measurement-lab.org  (213.208.152.20) done
+###############################
+61: 1.michigan.mlab2.vie01.measurement-lab.org (213.208.152.33)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.vie01.measurement-lab.org  (213.208.152.33) done
+###############################
+62: 1.michigan.mlab3.vie01.measurement-lab.org (213.208.152.46)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.vie01.measurement-lab.org  (213.208.152.46) done
+###############################
+63: 1.michigan.mlab1.dub01.measurement-lab.org (193.1.12.212)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.dub01.measurement-lab.org  (193.1.12.212) done
+###############################
+64: 1.michigan.mlab2.dub01.measurement-lab.org (193.1.12.225)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.dub01.measurement-lab.org  (193.1.12.225) done
+###############################
+65: 1.michigan.mlab3.lga01.measurement-lab.org (74.63.50.39)  on
+Deploy
+1.michigan.mlab3.lga01.measurement-lab.org  (74.63.50.39) done
+###############################
+66: 1.michigan.mlab3.dub01.measurement-lab.org (193.1.12.238)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.dub01.measurement-lab.org  (193.1.12.238) done
+###############################
+67: 1.michigan.mlab1.lba01.measurement-lab.org (109.239.110.20)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.lba01.measurement-lab.org  (109.239.110.20) done
+###############################
+68: 1.michigan.mlab3.lba01.measurement-lab.org (109.239.110.46)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.lba01.measurement-lab.org  (109.239.110.46) done
+###############################
+69: 1.michigan.mlab2.lba01.measurement-lab.org (109.239.110.33)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.lba01.measurement-lab.org  (109.239.110.33) done
+###############################
+70: 1.michigan.mlab3.lju01.measurement-lab.org (91.239.96.110)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.lju01.measurement-lab.org  (91.239.96.110) done
+###############################
+71: 1.michigan.mlab1.lju01.measurement-lab.org (91.239.96.84)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.lju01.measurement-lab.org  (91.239.96.84) done
+###############################
+72: 1.michigan.mlab2.lju01.measurement-lab.org (91.239.96.97)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.lju01.measurement-lab.org  (91.239.96.97) done
+###############################
+73: 1.michigan.mlab1.nuq01.measurement-lab.org (64.9.225.138)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.nuq01.measurement-lab.org  (64.9.225.138) done
+###############################
+74: 1.michigan.mlab2.nuq01.measurement-lab.org (64.9.225.162)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.nuq01.measurement-lab.org  (64.9.225.162) done
+###############################
+75: 1.michigan.mlab2.akl01.measurement-lab.org (163.7.129.33)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.akl01.measurement-lab.org  (163.7.129.33) done
+###############################
+76: 1.michigan.mlab3.akl01.measurement-lab.org (163.7.129.46)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.akl01.measurement-lab.org  (163.7.129.46) done
+###############################
+77: 1.michigan.mlab1.akl01.measurement-lab.org (163.7.129.20)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.akl01.measurement-lab.org  (163.7.129.20) done
+###############################
+78: 1.michigan.mlab4.nuq01.measurement-lab.org (64.9.225.178)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab4.nuq01.measurement-lab.org  (64.9.225.178) done
+###############################
+79: 1.michigan.mlab1.lga01.measurement-lab.org (74.63.50.11)  on
+Deploy
+1.michigan.mlab1.lga01.measurement-lab.org  (74.63.50.11) done
+###############################
+80: 1.michigan.mlab2.lga01.measurement-lab.org (74.63.50.24) off
+###############################
+81: 1.michigan.mlab2.nuq02.measurement-lab.org (149.20.5.97)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.nuq02.measurement-lab.org  (149.20.5.97) done
+###############################
+82: 1.michigan.mlab1.nuq02.measurement-lab.org (149.20.5.84)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.nuq02.measurement-lab.org  (149.20.5.84) done
+###############################
+83: 1.michigan.mlab4.nuq02.measurement-lab.org (149.20.5.123)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab4.nuq02.measurement-lab.org  (149.20.5.123) done
+###############################
+84: 1.michigan.mlab3.nuq02.measurement-lab.org (149.20.5.110)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.nuq02.measurement-lab.org  (149.20.5.110) done
+###############################
+85: 1.michigan.mlab3.nuq0t.measurement-lab.org (64.9.225.238) off
+###############################
+86: 1.michigan.mlab3.lax01.measurement-lab.org (38.98.51.37)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.lax01.measurement-lab.org  (38.98.51.37) done
+###############################
+87: 1.michigan.mlab4.nuq0t.measurement-lab.org (64.9.225.251) off
+###############################
+88: 1.michigan.mlab3.prg01.measurement-lab.org (212.162.51.110)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.prg01.measurement-lab.org  (212.162.51.110) done
+###############################
+89: 1.michigan.mlab2.prg01.measurement-lab.org (212.162.51.97)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.prg01.measurement-lab.org  (212.162.51.97) done
+###############################
+90: 1.michigan.mlab1.prg01.measurement-lab.org (212.162.51.84)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.prg01.measurement-lab.org  (212.162.51.84) done
+###############################
+91: 1.michigan.mlab4.prg01.measurement-lab.org (212.162.51.123)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab4.prg01.measurement-lab.org  (212.162.51.123) done
+###############################
+92: 1.michigan.mlab2.sea01.measurement-lab.org (38.102.0.89)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.sea01.measurement-lab.org  (38.102.0.89) done
+###############################
+93: 1.michigan.mlab3.sea01.measurement-lab.org (38.102.0.101)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.sea01.measurement-lab.org  (38.102.0.101) done
+###############################
+94: 1.michigan.mlab1.lga02.measurement-lab.org (38.106.70.138)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.lga02.measurement-lab.org  (38.106.70.138) done
+###############################
+95: 1.michigan.mlab2.lga02.measurement-lab.org (38.106.70.152)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.lga02.measurement-lab.org  (38.106.70.152) done
+###############################
+96: 1.michigan.mlab3.lga02.measurement-lab.org (38.106.70.164)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.lga02.measurement-lab.org  (38.106.70.164) done
+###############################
+97: 1.michigan.mlab1.ord01.measurement-lab.org (4.71.251.139)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.ord01.measurement-lab.org  (4.71.251.139) done
+###############################
+98: 1.michigan.mlab2.ord01.measurement-lab.org (4.71.251.152)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.ord01.measurement-lab.org  (4.71.251.152) done
+###############################
+99: 1.michigan.mlab3.ord01.measurement-lab.org (4.71.251.165)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.ord01.measurement-lab.org  (4.71.251.165) done
+###############################
+100: 1.michigan.mlab1.mia01.measurement-lab.org (4.71.210.203)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.mia01.measurement-lab.org  (4.71.210.203) done
+###############################
+101: 1.michigan.mlab2.mia01.measurement-lab.org (4.71.210.216)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.mia01.measurement-lab.org  (4.71.210.216) done
+###############################
+102: 1.michigan.mlab3.mia01.measurement-lab.org (4.71.210.229)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.mia01.measurement-lab.org  (4.71.210.229) done
+###############################
+103: 1.michigan.mlab1.atl01.measurement-lab.org (4.71.254.139)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.atl01.measurement-lab.org  (4.71.254.139) done
+###############################
+104: 1.michigan.mlab3.atl01.measurement-lab.org (4.71.254.165)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.atl01.measurement-lab.org  (4.71.254.165) done
+###############################
+105: 1.michigan.mlab2.atl01.measurement-lab.org (4.71.254.152)  on
+Deploy
+1.michigan.mlab2.atl01.measurement-lab.org  (4.71.254.152) done
+###############################
+106: 1.michigan.mlab1.dfw01.measurement-lab.org (38.107.216.13)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab1.dfw01.measurement-lab.org  (38.107.216.13) done
+###############################
+107: 1.michigan.mlab2.dfw01.measurement-lab.org (38.107.216.24)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab2.dfw01.measurement-lab.org  (38.107.216.24) done
+###############################
+108: 1.michigan.mlab3.dfw01.measurement-lab.org (38.107.216.37)  on
+Deploy
+stoping Downlink
+stoping Uplink
+stoping KeepAlive
+stoping Command
+1.michigan.mlab3.dfw01.measurement-lab.org  (38.107.216.37) done

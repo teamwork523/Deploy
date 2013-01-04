@@ -813,3 +813,4 @@ kill 18224: No such process
 kill 18229: No such process
 kill 18234: No such process
 kill 18240: No such process
+Write failed: Broken pipe
