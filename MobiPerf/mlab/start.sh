@@ -3,7 +3,7 @@
 
 cd ~/mobiperf
 
-for i in Downlink Uplink KeepAlive Command
+for i in Downlink Uplink ServerConfig KeepAlive Command
 do
 	echo "running $i"
 	sudo java -jar $i.jar mlab &
