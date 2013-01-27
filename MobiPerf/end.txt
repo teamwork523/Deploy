@@ -3,620 +3,1073 @@
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 17885: No such process
+kill 17890: No such process
+kill 17895: No such process
+kill 17900: No such process
+kill 17905: No such process
 1.michigan.mlab1.lax01.measurement-lab.org  (38.98.51.11) done
 ###############################
 2: 1.michigan.mlab2.lax01.measurement-lab.org (38.98.51.24)  on
 Deploy
 stoping Downlink
+kill 22240: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 22246: No such process
+kill 22251: No such process
+kill 22256: No such process
+kill 22261: No such process
 1.michigan.mlab2.lax01.measurement-lab.org  (38.98.51.24) done
 ###############################
 3: 1.michigan.mlab1.nuq0t.measurement-lab.org (64.9.225.212)  on
 Deploy
+ssh: connect to host 64.9.225.212 port 806: Connection refused
 1.michigan.mlab1.nuq0t.measurement-lab.org  (64.9.225.212) done
 ###############################
 4: 1.michigan.mlab1.lhr01.measurement-lab.org (217.163.1.78)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 1761: No such process
+kill 1766: No such process
+kill 1771: No such process
+kill 1776: No such process
+kill 1780: No such process
 1.michigan.mlab1.lhr01.measurement-lab.org  (217.163.1.78) done
 ###############################
 5: 1.michigan.mlab2.lhr01.measurement-lab.org (217.163.1.91)  on
 Deploy
 stoping Downlink
 stoping Uplink
+kill 23392: No such process
+kill stoping ServerConfig
 stoping KeepAlive
 stoping Command
+23397: No such process
+kill 23402: No such process
+kill 23406: No such process
+kill 23411: No such process
 1.michigan.mlab2.lhr01.measurement-lab.org  (217.163.1.91) done
 ###############################
 6: 1.michigan.mlab3.lhr01.measurement-lab.org (217.163.1.105)  on
 Deploy
 stoping Downlink
+kill 7422: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 7426: No such process
+kill 7430: No such process
+kill 7435: No such process
+kill 7439: No such process
 1.michigan.mlab3.lhr01.measurement-lab.org  (217.163.1.105) done
 ###############################
 7: 1.michigan.mlab1.ams01.measurement-lab.org (213.244.128.142)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 32485: No such process
+kill 32490: No such process
+kill 32495: No such process
+kill 32499: No such process
+kill 32503: No such process
 1.michigan.mlab1.ams01.measurement-lab.org  (213.244.128.142) done
 ###############################
 8: 1.michigan.mlab2.ams01.measurement-lab.org (213.244.128.155)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 24230: No such process
+kill 24236: No such process
+kill 24246: No such process
+kill 24254: No such process
+kill 24259: No such process
 1.michigan.mlab2.ams01.measurement-lab.org  (213.244.128.155) done
 ###############################
 9: 1.michigan.mlab3.ams01.measurement-lab.org (213.244.128.167)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 2447: No such process
+kill 2451: No such process
+kill 2458: No such process
+kill 2463: No such process
 1.michigan.mlab3.ams01.measurement-lab.org  (213.244.128.167) done
 ###############################
 10: 1.michigan.mlab1.par01.measurement-lab.org (80.239.168.206)  on
 Deploy
 stoping Downlink
+kill 3720: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 3725: No such process
+kill 3729: No such process
+kill 3734: No such process
+kill 3739: No such process
 1.michigan.mlab1.par01.measurement-lab.org  (80.239.168.206) done
 ###############################
 11: 1.michigan.mlab2.par01.measurement-lab.org (80.239.168.219)  on
 Deploy
 stoping Downlink
 stoping Uplink
+kill 18721: No such process
+kill stoping ServerConfig
 stoping KeepAlive
 stoping Command
+18726: No such process
+kill 18731: No such process
+kill 18736: No such process
+kill 18741: No such process
 1.michigan.mlab2.par01.measurement-lab.org  (80.239.168.219) done
 ###############################
 12: 1.michigan.mlab3.par01.measurement-lab.org (80.239.168.230)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 25223: No such process
+kill 25228: No such process
+kill 25232: No such process
+kill 25237: No such process
+kill 25241: No such process
 1.michigan.mlab3.par01.measurement-lab.org  (80.239.168.230) done
 ###############################
 13: 1.michigan.mlab1.ham01.measurement-lab.org (80.239.142.206)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 14966: No such process
+kill 14970: No such process
+kill 14975: No such process
+kill 14980: No such process
+kill 14985: No such process
 1.michigan.mlab1.ham01.measurement-lab.org  (80.239.142.206) done
 ###############################
 14: 1.michigan.mlab2.ham01.measurement-lab.org (80.239.142.219)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 20379: No such process
+kill 20384: No such process
+kill 20388: No such process
+kill 20393: No such process
+kill 20398: No such process
 1.michigan.mlab2.ham01.measurement-lab.org  (80.239.142.219) done
 ###############################
 15: 1.michigan.mlab3.ham01.measurement-lab.org (80.239.142.230)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 26082: No such process
+kill 26087: No such process
+kill 26092: No such process
+kill 26102: No such process
+kill 26108: No such process
 1.michigan.mlab3.ham01.measurement-lab.org  (80.239.142.230) done
 ###############################
 16: 1.michigan.mlab1.ams02.measurement-lab.org (72.26.217.76)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 14482: No such process
+kill 14486: No such process
+kill 14491: No such process
+kill 14496: No such process
+kill 14501: No such process
 1.michigan.mlab1.ams02.measurement-lab.org  (72.26.217.76) done
 ###############################
 17: 1.michigan.mlab2.ams02.measurement-lab.org (72.26.217.91)  on
 Deploy
 stoping Downlink
 stoping Uplink
-stoping KeepAlive
+kill 25321: No such process
+kill stoping KeepAlive
 stoping Command
+25326: No such process
+kill 25331: No such process
+kill 25336: No such process
 1.michigan.mlab2.ams02.measurement-lab.org  (72.26.217.91) done
 ###############################
 18: 1.michigan.mlab3.ams02.measurement-lab.org (72.26.217.101)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 30264: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 30268: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
 stoping KeepAlive
 stoping Command
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 30272: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 30276: No such process
+sudo: /var/run/sudo/michigan_1 owned by uid 508, should be uid 0
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+kill 30280: No such process
 1.michigan.mlab3.ams02.measurement-lab.org  (72.26.217.101) done
 ###############################
 19: 1.michigan.mlab2.ath01.measurement-lab.org (83.212.4.27)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 28855: No such process
+kill 28860: No such process
+kill 28864: No such process
+kill 28869: No such process
+kill 28874: No such process
 1.michigan.mlab2.ath01.measurement-lab.org  (83.212.4.27) done
 ###############################
 20: 1.michigan.mlab1.ath01.measurement-lab.org (83.212.4.14)  on
 Deploy
 stoping Downlink
+kill 24736: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 24949: No such process
+kill 24990: No such process
+kill 25022: No such process
+kill 25043: No such process
 1.michigan.mlab1.ath01.measurement-lab.org  (83.212.4.14) done
 ###############################
 21: 1.michigan.mlab3.ath01.measurement-lab.org (83.212.4.40)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 17866: No such process
+kill 17871: No such process
+kill 17876: No such process
+kill 17881: No such process
+kill 17885: No such process
 1.michigan.mlab3.ath01.measurement-lab.org  (83.212.4.40) done
 ###############################
 22: 1.michigan.mlab1.ath02.measurement-lab.org (83.212.5.142)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 10308: No such process
+kill 10315: No such process
+kill 10324: No such process
+kill 10329: No such process
+kill 10334: No such process
 1.michigan.mlab1.ath02.measurement-lab.org  (83.212.5.142) done
 ###############################
 23: 1.michigan.mlab2.ath02.measurement-lab.org (83.212.5.155)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 20663: No such process
+kill 20668: No such process
+kill 20673: No such process
+kill 20678: No such process
+kill 20684: No such process
 1.michigan.mlab2.ath02.measurement-lab.org  (83.212.5.155) done
 ###############################
 24: 1.michigan.mlab3.ath02.measurement-lab.org (83.212.5.167)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 13583: No such process
+kill 13587: No such process
+kill 13592: No such process
+kill 13597: No such process
+kill 13602: No such process
 1.michigan.mlab3.ath02.measurement-lab.org  (83.212.5.167) done
 ###############################
 25: 1.michigan.mlab3.syd02.measurement-lab.org (175.45.79.46)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 25599: No such process
+kill 25604: No such process
+kill 25609: No such process
+kill 25614: No such process
+kill 25619: No such process
 1.michigan.mlab3.syd02.measurement-lab.org  (175.45.79.46) done
 ###############################
 26: 1.michigan.mlab1.sea01.measurement-lab.org (38.102.0.75)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 31073: No such process
+kill 31078: No such process
+kill 31082: No such process
+kill 31088: No such process
+kill 31092: No such process
 1.michigan.mlab1.sea01.measurement-lab.org  (38.102.0.75) done
 ###############################
 27: 1.michigan.mlab1.syd01.measurement-lab.org (203.5.76.142)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 7747: No such process
+kill 7752: No such process
+kill 7757: No such process
+kill 7762: No such process
+kill 7767: No such process
 1.michigan.mlab1.syd01.measurement-lab.org  (203.5.76.142) done
 ###############################
 28: 1.michigan.mlab1.wlg01.measurement-lab.org (103.10.233.17)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 6447: No such process
+kill 6452: No such process
+kill 6457: No such process
+kill 6463: No such process
+kill 6468: No such process
 1.michigan.mlab1.wlg01.measurement-lab.org  (103.10.233.17) done
 ###############################
 29: 1.michigan.mlab2.wlg01.measurement-lab.org (103.10.233.30)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 9804: No such process
+kill 9809: No such process
+kill 9813: No such process
+kill 9818: No such process
+kill 9823: No such process
 1.michigan.mlab2.wlg01.measurement-lab.org  (103.10.233.30) done
 ###############################
 30: 1.michigan.mlab3.wlg01.measurement-lab.org (103.10.233.43)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 12168: No such process
+kill 12173: No such process
+kill 12178: No such process
+kill 12183: No such process
+kill 12188: No such process
 1.michigan.mlab3.wlg01.measurement-lab.org  (103.10.233.43) done
 ###############################
-31: 1.michigan.mlab1.iad01.measurement-lab.org (216.156.197.148)  on
-Deploy
-stoping Downlink
-stoping Uplink
-stoping KeepAlive
-stoping Command
-1.michigan.mlab1.iad01.measurement-lab.org  (216.156.197.148) done
+31: 1.michigan.mlab1.iad01.measurement-lab.org (216.156.197.148) off
 ###############################
-32: 1.michigan.mlab2.iad01.measurement-lab.org (216.156.197.161)  on
-Deploy
-stoping Downlink
-stoping Uplink
-stoping KeepAlive
-stoping Command
-1.michigan.mlab2.iad01.measurement-lab.org  (216.156.197.161) done
+32: 1.michigan.mlab2.iad01.measurement-lab.org (216.156.197.161) off
 ###############################
-33: 1.michigan.mlab3.iad01.measurement-lab.org (216.156.197.174)  on
-Deploy
-stoping Downlink
-stoping Uplink
-stoping KeepAlive
-stoping Command
-1.michigan.mlab3.iad01.measurement-lab.org  (216.156.197.174) done
+33: 1.michigan.mlab3.iad01.measurement-lab.org (216.156.197.174) off
 ###############################
 34: 1.michigan.mlab1.hnd01.measurement-lab.org (203.178.130.212)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 22697: No such process
+kill 22707: No such process
+kill 22712: No such process
+kill 22741: No such process
+kill 22759: No such process
 1.michigan.mlab1.hnd01.measurement-lab.org  (203.178.130.212) done
 ###############################
 35: 1.michigan.mlab2.hnd01.measurement-lab.org (203.178.130.225)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 20487: No such process
+kill 20492: No such process
+kill 20497: No such process
+kill 20504: No such process
+kill 20508: No such process
 1.michigan.mlab2.hnd01.measurement-lab.org  (203.178.130.225) done
 ###############################
 36: 1.michigan.mlab3.hnd01.measurement-lab.org (203.178.130.238)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 18033: No such process
+kill 18038: No such process
+kill 18045: No such process
+kill 18050: No such process
+kill 18055: No such process
 1.michigan.mlab3.hnd01.measurement-lab.org  (203.178.130.238) done
 ###############################
 37: 1.michigan.mlab3.nuq01.measurement-lab.org (64.9.225.175)  on
 Deploy
 stoping Downlink
+kill 29541: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 29545: No such process
+kill 29550: No such process
+kill 29554: No such process
+kill 29559: No such process
 1.michigan.mlab3.nuq01.measurement-lab.org  (64.9.225.175) done
 ###############################
 38: 1.michigan.mlab1.svg01.measurement-lab.org (81.167.39.20)  on
 Deploy
 stoping Downlink
+kill 31146: No such process
 stoping Uplink
+kill 31151: No such process
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 31156: No such process
+kill 31161: No such process
+kill 31166: No such process
 1.michigan.mlab1.svg01.measurement-lab.org  (81.167.39.20) done
 ###############################
 39: 1.michigan.mlab2.svg01.measurement-lab.org (81.167.39.33)  on
 Deploy
 stoping Downlink
+kill 12854: No such process
 stoping Uplink
-stoping KeepAlive
+kill 12859: No such process
+stoping ServerConfig
+kill stoping KeepAlive
 stoping Command
+12864: No such process
+kill 12868: No such process
+kill 12873: No such process
 1.michigan.mlab2.svg01.measurement-lab.org  (81.167.39.33) done
 ###############################
 40: 1.michigan.mlab3.svg01.measurement-lab.org (81.167.39.46)  on
 Deploy
 stoping Downlink
+kill 17206: No such process
 stoping Uplink
+kill 17211: No such process
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 17216: No such process
+kill 17235: No such process
+kill 17240: No such process
 1.michigan.mlab3.svg01.measurement-lab.org  (81.167.39.46) done
 ###############################
 41: 1.michigan.mlab1.tpe01.measurement-lab.org (163.22.28.20)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 11947: No such process
+kill 11952: No such process
+kill 11957: No such process
+kill 11962: No such process
+kill 11966: No such process
 1.michigan.mlab1.tpe01.measurement-lab.org  (163.22.28.20) done
 ###############################
 42: 1.michigan.mlab2.tpe01.measurement-lab.org (163.22.28.33)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 7612: No such process
+kill 7617: No such process
+kill 7622: No such process
+kill 7627: No such process
+kill 7632: No such process
 1.michigan.mlab2.tpe01.measurement-lab.org  (163.22.28.33) done
 ###############################
 43: 1.michigan.mlab3.tpe01.measurement-lab.org (163.22.28.46)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 1811: No such process
+kill 1816: No such process
+kill 1821: No such process
+kill 1825: No such process
+kill 1830: No such process
 1.michigan.mlab3.tpe01.measurement-lab.org  (163.22.28.46) done
 ###############################
 44: 1.michigan.mlab1.syd02.measurement-lab.org (175.45.79.20)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 27200: No such process
+kill 27205: No such process
+kill 27210: No such process
+kill 27215: No such process
+kill 27220: No such process
 1.michigan.mlab1.syd02.measurement-lab.org  (175.45.79.20) done
 ###############################
 45: 1.michigan.mlab2.syd02.measurement-lab.org (175.45.79.33)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 24238: No such process
+kill 24242: No such process
+kill 24247: No such process
+kill 24251: No such process
+kill 24256: No such process
 1.michigan.mlab2.syd02.measurement-lab.org  (175.45.79.33) done
 ###############################
 46: 1.michigan.mlab2.syd01.measurement-lab.org (203.5.76.158)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 7168: No such process
+kill 7173: No such process
+kill 7178: No such process
+kill 7182: No such process
+kill 7188: No such process
 1.michigan.mlab2.syd01.measurement-lab.org  (203.5.76.158) done
 ###############################
 47: 1.michigan.mlab3.syd01.measurement-lab.org (203.5.76.172)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 17329: No such process
+kill 17333: No such process
+kill 17338: No such process
+kill 17343: No such process
+kill 17348: No such process
 1.michigan.mlab3.syd01.measurement-lab.org  (203.5.76.172) done
 ###############################
 48: 1.michigan.mlab1.trn01.measurement-lab.org (194.116.85.212)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 1105: No such process
+kill 1110: No such process
+kill 1115: No such process
+kill 1120: No such process
+kill 1125: No such process
 1.michigan.mlab1.trn01.measurement-lab.org  (194.116.85.212) done
 ###############################
 49: 1.michigan.mlab2.trn01.measurement-lab.org (194.116.85.225)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 30283: No such process
+kill 30288: No such process
+kill 30293: No such process
+kill 30298: No such process
+kill 30303: No such process
 1.michigan.mlab2.trn01.measurement-lab.org  (194.116.85.225) done
 ###############################
 50: 1.michigan.mlab3.trn01.measurement-lab.org (194.116.85.238)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 3136: No such process
+kill 3140: No such process
+kill 3145: No such process
+kill 3150: No such process
+kill 3155: No such process
 1.michigan.mlab3.trn01.measurement-lab.org  (194.116.85.238) done
 ###############################
 51: 1.michigan.mlab1.mad01.measurement-lab.org (213.200.103.148)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 21373: No such process
+kill 21377: No such process
+kill 21382: No such process
+kill 21386: No such process
+kill 21391: No such process
 1.michigan.mlab1.mad01.measurement-lab.org  (213.200.103.148) done
 ###############################
 52: 1.michigan.mlab2.mad01.measurement-lab.org (213.200.103.161)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 25750: No such process
+kill 25755: No such process
+kill 25760: No such process
+kill 25765: No such process
+kill 25770: No such process
 1.michigan.mlab2.mad01.measurement-lab.org  (213.200.103.161) done
 ###############################
 53: 1.michigan.mlab3.mad01.measurement-lab.org (213.200.103.174)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 32517: No such process
+kill 32522: No such process
+kill 32526: No such process
+kill 32531: No such process
+kill 32536: No such process
 1.michigan.mlab3.mad01.measurement-lab.org  (213.200.103.174) done
 ###############################
 54: 1.michigan.mlab1.mil01.measurement-lab.org (213.200.99.212)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 16207: No such process
+kill 16212: No such process
+kill 16216: No such process
+kill 16221: No such process
+kill 16226: No such process
 1.michigan.mlab1.mil01.measurement-lab.org  (213.200.99.212) done
 ###############################
 55: 1.michigan.mlab2.mil01.measurement-lab.org (213.200.99.225)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 16025: No such process
+kill 16030: No such process
+kill 16035: No such process
+kill 16040: No such process
+kill 16045: No such process
 1.michigan.mlab2.mil01.measurement-lab.org  (213.200.99.225) done
 ###############################
 56: 1.michigan.mlab3.mil01.measurement-lab.org (213.200.99.238)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 3795: No such process
+kill 3800: No such process
+kill 3805: No such process
+kill 3810: No such process
+kill 3815: No such process
 1.michigan.mlab3.mil01.measurement-lab.org  (213.200.99.238) done
 ###############################
 57: 1.michigan.mlab1.arn01.measurement-lab.org (213.248.112.84)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 22659: No such process
+kill 22664: No such process
+kill 22669: No such process
+kill 22673: No such process
+kill 22678: No such process
 1.michigan.mlab1.arn01.measurement-lab.org  (213.248.112.84) done
 ###############################
 58: 1.michigan.mlab2.arn01.measurement-lab.org (213.248.112.97)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 17684: No such process
+kill 17689: No such process
+kill 17694: No such process
+kill 17699: No such process
+kill 17704: No such process
 1.michigan.mlab2.arn01.measurement-lab.org  (213.248.112.97) done
 ###############################
 59: 1.michigan.mlab3.arn01.measurement-lab.org (213.248.112.110)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 11409: No such process
+kill 11414: No such process
+kill 11419: No such process
+kill 11424: No such process
+kill 11428: No such process
 1.michigan.mlab3.arn01.measurement-lab.org  (213.248.112.110) done
 ###############################
 60: 1.michigan.mlab1.vie01.measurement-lab.org (213.208.152.20)  on
 Deploy
 stoping Downlink
+kill 19126: No such process
 stoping Uplink
+kill 19131: No such process
+stoping ServerConfig
+kill 19136: No such process
 stoping KeepAlive
 stoping Command
+kill 19141: No such process
+kill 19146: No such process
 1.michigan.mlab1.vie01.measurement-lab.org  (213.208.152.20) done
 ###############################
 61: 1.michigan.mlab2.vie01.measurement-lab.org (213.208.152.33)  on
 Deploy
 stoping Downlink
+kill 18238: No such process
 stoping Uplink
+kill 18243: No such process
+stoping ServerConfig
+kill 18248: No such process
 stoping KeepAlive
 stoping Command
+kill 18253: No such process
+kill 18258: No such process
 1.michigan.mlab2.vie01.measurement-lab.org  (213.208.152.33) done
 ###############################
 62: 1.michigan.mlab3.vie01.measurement-lab.org (213.208.152.46)  on
 Deploy
 stoping Downlink
+kill 31266: No such process
 stoping Uplink
+kill 31271: No such process
+stoping ServerConfig
+kill 31276: No such process
 stoping KeepAlive
 stoping Command
+kill 31281: No such process
+kill 31286: No such process
 1.michigan.mlab3.vie01.measurement-lab.org  (213.208.152.46) done
 ###############################
 63: 1.michigan.mlab1.dub01.measurement-lab.org (193.1.12.212)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 2008: No such process
+kill 2012: No such process
+kill 2017: No such process
+kill 2022: No such process
+kill 2027: No such process
 1.michigan.mlab1.dub01.measurement-lab.org  (193.1.12.212) done
 ###############################
 64: 1.michigan.mlab2.dub01.measurement-lab.org (193.1.12.225)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 9824: No such process
+kill 9829: No such process
+kill 9833: No such process
+kill 9838: No such process
+kill 9842: No such process
 1.michigan.mlab2.dub01.measurement-lab.org  (193.1.12.225) done
 ###############################
 65: 1.michigan.mlab3.lga01.measurement-lab.org (74.63.50.39)  on
 Deploy
+src/vsh.c:166: chdir(/home/michigan_1): Permission denied (13)
 1.michigan.mlab3.lga01.measurement-lab.org  (74.63.50.39) done
 ###############################
 66: 1.michigan.mlab3.dub01.measurement-lab.org (193.1.12.238)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 16535: No such process
+kill 16540: No such process
+kill 16544: No such process
+kill 16549: No such process
+kill 16554: No such process
 1.michigan.mlab3.dub01.measurement-lab.org  (193.1.12.238) done
 ###############################
-67: 1.michigan.mlab1.lba01.measurement-lab.org (109.239.110.20)  on
-Deploy
-stoping Downlink
-stoping Uplink
-stoping KeepAlive
-stoping Command
-1.michigan.mlab1.lba01.measurement-lab.org  (109.239.110.20) done
+67: 1.michigan.mlab1.lba01.measurement-lab.org (109.239.110.20) off
 ###############################
 68: 1.michigan.mlab3.lba01.measurement-lab.org (109.239.110.46)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 29174: No such process
+kill 29179: No such process
+kill 29184: No such process
+kill 29189: No such process
+kill 29194: No such process
 1.michigan.mlab3.lba01.measurement-lab.org  (109.239.110.46) done
 ###############################
 69: 1.michigan.mlab2.lba01.measurement-lab.org (109.239.110.33)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 27786: No such process
+kill 27791: No such process
+kill 27796: No such process
+kill 27801: No such process
+kill 27806: No such process
 1.michigan.mlab2.lba01.measurement-lab.org  (109.239.110.33) done
 ###############################
 70: 1.michigan.mlab3.lju01.measurement-lab.org (91.239.96.110)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 18611: No such process
+kill 18616: No such process
+kill 18620: No such process
+kill 18625: No such process
+kill 18630: No such process
 1.michigan.mlab3.lju01.measurement-lab.org  (91.239.96.110) done
 ###############################
 71: 1.michigan.mlab1.lju01.measurement-lab.org (91.239.96.84)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 431: No such process
+kill 436: No such process
+kill 441: No such process
+kill 446: No such process
+kill 451: No such process
 1.michigan.mlab1.lju01.measurement-lab.org  (91.239.96.84) done
 ###############################
 72: 1.michigan.mlab2.lju01.measurement-lab.org (91.239.96.97)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 29768: No such process
+kill 29773: No such process
+kill 29778: No such process
+kill 29783: No such process
+kill 29787: No such process
 1.michigan.mlab2.lju01.measurement-lab.org  (91.239.96.97) done
 ###############################
 73: 1.michigan.mlab1.nuq01.measurement-lab.org (64.9.225.138)  on
 Deploy
 stoping Downlink
+kill 22539: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 22543: No such process
+kill 22548: No such process
+kill 22553: No such process
+kill 22557: No such process
 1.michigan.mlab1.nuq01.measurement-lab.org  (64.9.225.138) done
 ###############################
 74: 1.michigan.mlab2.nuq01.measurement-lab.org (64.9.225.162)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 32392: No such process
+kill 32397: No such process
+kill 32401: No such process
+kill 32405: No such process
+kill 32410: No such process
 1.michigan.mlab2.nuq01.measurement-lab.org  (64.9.225.162) done
 ###############################
 75: 1.michigan.mlab2.akl01.measurement-lab.org (163.7.129.33)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 30076: No such process
+kill 30081: No such process
+kill 30086: No such process
+kill 30091: No such process
+kill 30096: No such process
 1.michigan.mlab2.akl01.measurement-lab.org  (163.7.129.33) done
 ###############################
 76: 1.michigan.mlab3.akl01.measurement-lab.org (163.7.129.46)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 2218: No such process
+kill 2223: No such process
+kill 2227: No such process
+kill 2232: No such process
+kill 2236: No such process
 1.michigan.mlab3.akl01.measurement-lab.org  (163.7.129.46) done
 ###############################
 77: 1.michigan.mlab1.akl01.measurement-lab.org (163.7.129.20)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 4044: No such process
+kill 4049: No such process
+kill 4054: No such process
+kill 4059: No such process
+kill 4063: No such process
 1.michigan.mlab1.akl01.measurement-lab.org  (163.7.129.20) done
 ###############################
 78: 1.michigan.mlab4.nuq01.measurement-lab.org (64.9.225.178)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 15517: No such process
+kill 15522: No such process
+kill 15527: No such process
+kill 15532: No such process
+kill 15537: No such process
 1.michigan.mlab4.nuq01.measurement-lab.org  (64.9.225.178) done
 ###############################
 79: 1.michigan.mlab1.lga01.measurement-lab.org (74.63.50.11)  on
 Deploy
+'vserver ... suexec' is supported for running vservers only; aborting...
 1.michigan.mlab1.lga01.measurement-lab.org  (74.63.50.11) done
 ###############################
 80: 1.michigan.mlab2.lga01.measurement-lab.org (74.63.50.24) off
@@ -625,32 +1078,56 @@ Deploy
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 14183: No such process
+kill 14188: No such process
+kill 14192: No such process
+kill 14197: No such process
+kill 14202: No such process
 1.michigan.mlab2.nuq02.measurement-lab.org  (149.20.5.97) done
 ###############################
 82: 1.michigan.mlab1.nuq02.measurement-lab.org (149.20.5.84)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 25745: No such process
+kill 25750: No such process
+kill 25754: No such process
+kill 25759: No such process
+kill 25765: No such process
 1.michigan.mlab1.nuq02.measurement-lab.org  (149.20.5.84) done
 ###############################
 83: 1.michigan.mlab4.nuq02.measurement-lab.org (149.20.5.123)  on
 Deploy
 stoping Downlink
+kill 25512: No such process
 stoping Uplink
+kill 25517: No such process
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 25522: No such process
+kill 25527: No such process
+kill 25532: No such process
 1.michigan.mlab4.nuq02.measurement-lab.org  (149.20.5.123) done
 ###############################
 84: 1.michigan.mlab3.nuq02.measurement-lab.org (149.20.5.110)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 16320: No such process
+kill 16325: No such process
+kill 16330: No such process
+kill 16335: No such process
+kill 16340: No such process
 1.michigan.mlab3.nuq02.measurement-lab.org  (149.20.5.110) done
 ###############################
 85: 1.michigan.mlab3.nuq0t.measurement-lab.org (64.9.225.238) off
@@ -658,173 +1135,279 @@ stoping Command
 86: 1.michigan.mlab3.lax01.measurement-lab.org (38.98.51.37)  on
 Deploy
 stoping Downlink
-stoping Uplink
+kill stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+10840: No such process
+kill 10846: No such process
+kill 10851: No such process
+kill 10856: No such process
+kill 10861: No such process
 1.michigan.mlab3.lax01.measurement-lab.org  (38.98.51.37) done
 ###############################
-87: 1.michigan.mlab4.nuq0t.measurement-lab.org (64.9.225.251) off
+87: 1.michigan.mlab4.nuq0t.measurement-lab.org (64.9.225.251)  on
+Deploy
+ssh: connect to host 64.9.225.251 port 806: Connection refused
+1.michigan.mlab4.nuq0t.measurement-lab.org  (64.9.225.251) done
 ###############################
 88: 1.michigan.mlab3.prg01.measurement-lab.org (212.162.51.110)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 25889: No such process
+kill 25894: No such process
+kill 25899: No such process
+kill 25904: No such process
+kill 25909: No such process
 1.michigan.mlab3.prg01.measurement-lab.org  (212.162.51.110) done
 ###############################
 89: 1.michigan.mlab2.prg01.measurement-lab.org (212.162.51.97)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 1050: No such process
+kill 1054: No such process
+kill 1058: No such process
+kill 1063: No such process
+kill 1068: No such process
 1.michigan.mlab2.prg01.measurement-lab.org  (212.162.51.97) done
 ###############################
 90: 1.michigan.mlab1.prg01.measurement-lab.org (212.162.51.84)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 28996: No such process
+kill 29001: No such process
+kill 29006: No such process
+kill 29011: No such process
+kill 29015: No such process
 1.michigan.mlab1.prg01.measurement-lab.org  (212.162.51.84) done
 ###############################
 91: 1.michigan.mlab4.prg01.measurement-lab.org (212.162.51.123)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 32370: No such process
+kill 32375: No such process
+kill 32379: No such process
+kill 32384: No such process
+kill 32389: No such process
 1.michigan.mlab4.prg01.measurement-lab.org  (212.162.51.123) done
 ###############################
-92: 1.michigan.mlab2.sea01.measurement-lab.org (38.102.0.89)  on
-Deploy
-stoping Downlink
-stoping Uplink
-stoping KeepAlive
-stoping Command
-1.michigan.mlab2.sea01.measurement-lab.org  (38.102.0.89) done
+92: 1.michigan.mlab2.sea01.measurement-lab.org (38.102.0.89) off
 ###############################
 93: 1.michigan.mlab3.sea01.measurement-lab.org (38.102.0.101)  on
 Deploy
 stoping Downlink
+kill 20183: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 20188: No such process
+kill 20193: No such process
+kill 20198: No such process
+kill 20202: No such process
 1.michigan.mlab3.sea01.measurement-lab.org  (38.102.0.101) done
 ###############################
 94: 1.michigan.mlab1.lga02.measurement-lab.org (38.106.70.138)  on
 Deploy
 stoping Downlink
+kill 15888: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 15894: No such process
+kill 15898: No such process
+kill 15903: No such process
+kill 15908: No such process
 1.michigan.mlab1.lga02.measurement-lab.org  (38.106.70.138) done
 ###############################
 95: 1.michigan.mlab2.lga02.measurement-lab.org (38.106.70.152)  on
 Deploy
 stoping Downlink
 stoping Uplink
+kill 4583: No such process
+stoping ServerConfig
 stoping KeepAlive
+kill 4587: No such process
+kill 4592: No such process
+kill 4597: No such process
 stoping Command
+kill 4602: No such process
 1.michigan.mlab2.lga02.measurement-lab.org  (38.106.70.152) done
 ###############################
-96: 1.michigan.mlab3.lga02.measurement-lab.org (38.106.70.164)  on
-Deploy
-stoping Downlink
-stoping Uplink
-stoping KeepAlive
-stoping Command
-1.michigan.mlab3.lga02.measurement-lab.org  (38.106.70.164) done
+96: 1.michigan.mlab3.lga02.measurement-lab.org (38.106.70.164) off
 ###############################
 97: 1.michigan.mlab1.ord01.measurement-lab.org (4.71.251.139)  on
 Deploy
 stoping Downlink
 stoping Uplink
+kill 22288: No such process
+stoping ServerConfig
+kill 22293: No such process
 stoping KeepAlive
+kill 22298: No such process
+kill 22302: No such process
 stoping Command
+kill 22307: No such process
 1.michigan.mlab1.ord01.measurement-lab.org  (4.71.251.139) done
 ###############################
 98: 1.michigan.mlab2.ord01.measurement-lab.org (4.71.251.152)  on
 Deploy
 stoping Downlink
 stoping Uplink
+kill 21354: No such process
+stoping ServerConfig
+kill 21358: No such process
+kill 21362: No such process
 stoping KeepAlive
 stoping Command
+kill 21367: No such process
+kill 21372: No such process
 1.michigan.mlab2.ord01.measurement-lab.org  (4.71.251.152) done
 ###############################
 99: 1.michigan.mlab3.ord01.measurement-lab.org (4.71.251.165)  on
 Deploy
 stoping Downlink
+kill 8411: No such process
 stoping Uplink
+kill 8416: No such process
+stoping ServerConfig
+kill 8421: No such process
 stoping KeepAlive
+kill 8426: No such process
 stoping Command
+kill 8431: No such process
 1.michigan.mlab3.ord01.measurement-lab.org  (4.71.251.165) done
 ###############################
 100: 1.michigan.mlab1.mia01.measurement-lab.org (4.71.210.203)  on
 Deploy
 stoping Downlink
 stoping Uplink
+kill 21499: No such process
+kill stoping ServerConfig
 stoping KeepAlive
+21512: No such process
+kill 21517: No such process
+kill 21522: No such process
 stoping Command
+kill 21527: No such process
 1.michigan.mlab1.mia01.measurement-lab.org  (4.71.210.203) done
 ###############################
 101: 1.michigan.mlab2.mia01.measurement-lab.org (4.71.210.216)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
+kill 5914: No such process
+kill 5919: No such process
+kill 5924: No such process
 stoping KeepAlive
-stoping Command
+kill stoping Command
+5929: No such process
+kill 5933: No such process
 1.michigan.mlab2.mia01.measurement-lab.org  (4.71.210.216) done
 ###############################
 102: 1.michigan.mlab3.mia01.measurement-lab.org (4.71.210.229)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
+kill 23252: No such process
+kill 23256: No such process
+kill 23261: No such process
+kill 23266: No such process
 stoping Command
+kill 23270: No such process
 1.michigan.mlab3.mia01.measurement-lab.org  (4.71.210.229) done
 ###############################
 103: 1.michigan.mlab1.atl01.measurement-lab.org (4.71.254.139)  on
 Deploy
 stoping Downlink
 stoping Uplink
+kill 14376: No such process
+kill 14381: No such process
+stoping ServerConfig
 stoping KeepAlive
+kill 14386: No such process
 stoping Command
+kill 14391: No such process
+kill 14396: No such process
 1.michigan.mlab1.atl01.measurement-lab.org  (4.71.254.139) done
 ###############################
 104: 1.michigan.mlab3.atl01.measurement-lab.org (4.71.254.165)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
+kill 22058: No such process
+kill 22063: No such process
+kill 22067: No such process
 stoping KeepAlive
 stoping Command
+kill 22071: No such process
+kill 22076: No such process
 1.michigan.mlab3.atl01.measurement-lab.org  (4.71.254.165) done
 ###############################
 105: 1.michigan.mlab2.atl01.measurement-lab.org (4.71.254.152)  on
 Deploy
+'vserver ... suexec' is supported for running vservers only; aborting...
 1.michigan.mlab2.atl01.measurement-lab.org  (4.71.254.152) done
 ###############################
 106: 1.michigan.mlab1.dfw01.measurement-lab.org (38.107.216.13)  on
 Deploy
 stoping Downlink
+kill 27934: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 27939: No such process
+kill 27943: No such process
+kill 27948: No such process
+kill 27952: No such process
 1.michigan.mlab1.dfw01.measurement-lab.org  (38.107.216.13) done
 ###############################
 107: 1.michigan.mlab2.dfw01.measurement-lab.org (38.107.216.24)  on
 Deploy
 stoping Downlink
+kill 23761: No such process
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 23766: No such process
+kill 23770: No such process
+kill 23775: No such process
+kill 23780: No such process
 1.michigan.mlab2.dfw01.measurement-lab.org  (38.107.216.24) done
 ###############################
 108: 1.michigan.mlab3.dfw01.measurement-lab.org (38.107.216.37)  on
 Deploy
 stoping Downlink
 stoping Uplink
+stoping ServerConfig
 stoping KeepAlive
 stoping Command
+kill 8206: No such process
+kill 8211: No such process
+kill 8217: No such process
+kill 8222: No such process
+kill 8227: No such process
 1.michigan.mlab3.dfw01.measurement-lab.org  (38.107.216.37) done

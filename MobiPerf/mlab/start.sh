@@ -3,10 +3,16 @@
 
 cd ~/mobiperf
 
-for i in Downlink Uplink ServerConfig KeepAlive Command
+for i in Downlink Uplink ServerConfig
 do
 	echo "running $i"
-	sudo java -jar $i.jar mlab &
+	sudo java -Xmx128M -jar $i.jar &
+        sleep 1
 done
 
-echo "success deploying and running server\n"
+port=$(sudo netstat -atup | grep "LISTEN" | wc -l)
+if [ $port != 3 ];then
+	echo "Error when start the thread"
+else
+	echo "Success deploying and running server"
+fi
